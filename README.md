@@ -6,7 +6,7 @@
 
 Uma aplicação que serve como um livro de receitas no seu celular. Nele, é possível escolher por dezenas de receitas dos mais variados tipos, ter a lista dos ingredientes e quantidades, modo de preparo, videos do youtube de como fazer e muito mais.
   
-[*Website Link*](Em construç)
+# WebSite Link
 
 ## 🚀 Começando
 Essas instruções permitirão que você obtenha uma cópia do projeto em operação na sua máquina local para fins de desenvolvimento e teste.
